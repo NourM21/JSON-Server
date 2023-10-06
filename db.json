@@ -1,0 +1,242 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Nour Mando",
+            "email": "nourmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-1.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ammar Zain",
+            "email": "ammarzain@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-5.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ahmad Mando",
+            "email": "ahmadmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-5.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Amira Mando",
+            "email": "amiramando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-3.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bayan Mando",
+            "email": "bayanmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-4.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Asmaa Zaibak",
+            "email": "asmaazaibak@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-1.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Rama Mawlawi",
+            "email": "ramamawlawi@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "./src/Const/NewsImages/News-6.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ghina Rasheed",
+            "gender": "female",
+            "email": "ghinarasheed@gmail.com",
+            "phone": "+963 123 456 789",
+            "birthDate": "1997-12-25",
+            "image": "./src/Const/NewsImages/News-2.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        }
+    ],
+    "teachers": [
+        {
+            "id": 1,
+            "name": "Nour Mando",
+            "email": "nourmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://t3.ftcdn.net/jpg/02/02/52/36/360_F_202523652_NqEMp50IkORLXlCmJXqgqRBLMW8xBHMP.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ammar Zain",
+            "email": "ammarzain@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://img.freepik.com/premium-photo/young-male-teacher-standing-with-book_488220-18480.jpg",
+            "courses": [
+                "React JS", "JavaScript"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Ahmad Mando",
+            "email": "ahmadmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://img.freepik.com/free-photo/positive-aged-math-teacher-leaning-desk_23-2148201034.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1696377600&semt=ais",
+            "courses": [
+                "HTML", "CSS"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Amira Mando",
+            "email": "amiramando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://d19d5sz0wkl0lu.cloudfront.net/dims4/default/b2928d2/2147483647/resize/800x%3E/quality/90/?url=https%3A%2F%2Fatd-brightspot.s3.amazonaws.com%2F7f%2F38%2Fb37d0d6148e48fea8f76209eb3bb%2Fbigstock-pretty-teacher-smiling-at-came-69887626-1.jpg",
+            "courses": [
+                "JavaScript"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bayan Mando",
+            "email": "bayanmando@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://media.istockphoto.com/id/1043554794/photo/mixed-race-teacher-in-the-classroom.jpg?s=170667a&w=0&k=20&c=Wl2CCJa-HjGXi0oL30DWHe_3l_betyC3tT2xXm1HZfY=",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Asmaa Zaibak",
+            "email": "asmaazaibak@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://media.istockphoto.com/id/522138562/photo/i-facilitate-thinking.jpg?s=612x612&w=0&k=20&c=zlB29th2e7W6DvCV1LZyyv7tsrz-S00Oe9twG-J2R5w=",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Rama Mawlawi",
+            "email": "ramamawlawi@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://static9.depositphotos.com/1594308/1163/i/450/depositphotos_11634542-stock-photo-at-lesson.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Ghina Rasheed",
+            "email": "ghinarasheed@gmail.com",
+            "phone": "+963 123 456 789",
+            "image": "https://st2.depositphotos.com/1518767/6899/i/450/depositphotos_68991851-stock-photo-pretty-teacher-smiling-at-camera.jpg",
+            "courses": [
+                "React JS", "HTML", "CSS", "JavaScript"
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "name": "React JS",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://bilginc.com/editorFiles/3147aa77.png"
+        },
+        {
+            "id": 2,
+            "name": "Vue JS",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://miro.medium.com/v2/resize:fit:900/1*OrjCKmou1jT4It5so5gvOA.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Angular",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://www.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular.png"
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://www.almrsal.com/wp-content/uploads/2019/06/%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7-%D8%B3%D9%83%D8%B1%D9%8A%D8%A8%D8%AA.png"
+        },
+        {
+            "id": 5,
+            "name": "Laravel",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://i0.wp.com/www.agasigp.web.id/wp-content/uploads/2016/01/laravel-1.png?resize=400%2C400&ssl=1"
+        },
+        {
+            "id": 6,
+            "name": "Next JS",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://velog.velcdn.com/images/khy226/post/814c11ee-0626-4947-90a2-3be78a1bb92d/image.jpeg"
+        },
+        {
+            "id": 7,
+            "name": "CSS",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://velog.velcdn.com/images/lynniepro21/post/bb267329-b457-4f94-afcb-1d0235a4253e/image.jpeg"
+        },
+        {
+            "id": 8,
+            "name": "HTML",
+            "teacher": "Karam Mustafa",
+            "startAt": "01/08/2023",
+            "endAt": "31/10/2023",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores maiores sint magnam, ducimus animi placeat quam ab praesentium doloremque aut sequi nemo consectetur officiis provident ipsam molestiae. Cumque, quae deleniti.",
+            "image": "https://img.freepik.com/free-icon/html-5_318-674234.jpg"
+        }
+    ]
+}
